@@ -1,0 +1,1 @@
+web: gunicorn rahulapp.wsgi --log-file -
